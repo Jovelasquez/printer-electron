@@ -1,0 +1,9 @@
+version: 2.4.1
+files:
+  - url: angular-electron-2.4.1-x86_64.AppImage
+    sha512: rzLUUXUYwgV564bqWDk9cDJUt46fuIGE6ETcymCRw8ZULmbz33rDzsObxqFwOdiZQF6xjzePKr651GLSAob2zw==
+    size: 60690909
+    blockMapSize: 64289
+path: angular-electron-2.4.1-x86_64.AppImage
+sha512: rzLUUXUYwgV564bqWDk9cDJUt46fuIGE6ETcymCRw8ZULmbz33rDzsObxqFwOdiZQF6xjzePKr651GLSAob2zw==
+releaseDate: '2018-02-08T19:44:32.476Z'
